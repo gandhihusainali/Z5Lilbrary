@@ -323,3 +323,12 @@ td
 	{mso-style-parent:style0;
 	vertical-align:middle;
 	white-space:normal;}
+.xl99
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid #2F75B5;
+	border-bottom:.5pt solid #2F75B5;
+	border-left:none;
+	white-space:normal;}
